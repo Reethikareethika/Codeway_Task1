@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            #i1{
+                height: 200px;
+
+            }
+            #p1{
+                width: 500px;
+                padding: 20px;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            #d1{
+                display: flex;
+            }
+            #d2{
+                display: flex;
+            }
+            #p2{
+                width: 500px;
+                padding: 20px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            #i2{
+                height: 200px;
+            }
+            #i3{
+                height: 200px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <h1 align="center">PROJECT</h1> 
+        <div id ="a"> 
+            <div id="d1">
+            <p id="p1"> I had done this internship under academor as a front-end web developer.I had done weather application as project for internship.
+                I had used HTML,CSS to design the front end of the project and I used Basic Javascript for designing the functionality of the application.</p>
+                <img id="i1" src="C:\Users\21pa1\Downloads\WhatsApp Image 2024-02-20 at 2.55.38 PM.jpeg">
+            </div><br><br><br>
+            <div id="d2">
+                <img id="i2" src="C:\Users\21pa1\Downloads\WhatsApp Image 2024-02-20 at 2.55.40 PM.jpeg">
+                <p id="p2">The working of the project will bw, when we enter a city name we can see the temperature of the current day and temperature for succeeding five days.Not only temperature we also see the current wind and humidity and succeeding 5 days weather report for wind and humidity.
+                    In the above picture we can see the current weather report for Delhi and succeeding 5 days weather reports.
+                </p>
+
+
+            </div>
+            
+            
+        </div>
+    </body>
+</html>
