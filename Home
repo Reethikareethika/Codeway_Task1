@@ -1,0 +1,119 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <style>
+                #img1{
+                    height: 300px;
+                    width: 300px;
+                    margin-top: 30px;
+                    margin-left: 80px;
+                    position: relative;
+                }
+                #h{
+                    position: absolute;
+                    margin-top: 30px;
+                    margin-left: 400px;
+                }
+                #p{
+                    
+                    position: absolute;
+                    margin-top: 100px;
+                    margin-left: 400px;
+                    font-size: 27px;
+                }
+                #d1{
+                    background-color:lightgreen;
+                    height: 150px;
+                    width: 150px;
+        
+                    border-radius: 50%;
+                }
+                #d2{
+                    background-color:orange;
+                    height: 150px;
+                    width: 150px;
+                    
+                    border-radius: 50%;
+                }
+                #d3{
+                    background-color:skyblue;
+                    height: 150px;
+                    width: 150px;
+                    
+                    border-radius: 50%;
+                }
+                #d4{
+                    background-color:lightslategray;
+                    height: 150px;
+                    width: 150px;
+                    
+                    border-radius: 50%;
+                }
+                #dd{
+                    display: flex;
+                    width: 700px;
+                    justify-content: space-around;
+                    margin-left: 500px;
+                    position: relative;
+                    bottom: 80px;
+
+                }
+                #img2{
+                    height: 15px;
+                    width: 15px;
+                    position: relative;
+                    top:30px;
+                    right: 50px;
+                }
+                h4{
+                    position: relative;
+                    top: 40px;
+                    
+                }
+                #img3{
+                    height: 10px;
+                    width: 10px;
+                    position: relative;
+                    bottom: 10px;
+                }
+                #p1{
+                    position: relative;
+                    left: 600px;
+                    font-size: 25px;
+                }
+                
+                
+
+
+                
+                
+
+            </style>
+        </head>
+        <body>
+            <h2 id="h2" align="center">ABOUT ME</h2>
+            <h1 id="h"><b>Areti Reethika</b></h1>
+            <p id="p"> A well-crafted and hard-working individual looking for a responsible position to gain practical experience.
+                seeking an entry-level position in the engineering industry to pursue a career as a Software Engineer and improve my skillset. </p>
+            <div id="a"> <img id="img1" src="https://cdn-icons-png.flaticon.com/128/11472/11472783.png"> </div>
+            <div id="dd">
+            <div id="d1"> 
+                <h4 align="center"><a href="skills.html">SKILLS</a></h4>
+            </div>
+            <div id="d2">
+                <h4 align="center"><a href="project.html">PROJECTS</a></h4>
+            </div>
+            <div id="d3">
+                <h4 align="center"><a href="contact.html">CONTACT</a></h4>
+            </div>
+            <div id="d4">
+                <h4 align="center"><a href="https://jumpshare.com/v/651DEuS8AhLwQ5q2vkic">MY RESUME<img id="img2" src="https://cdn-icons-png.flaticon.com/128/3031/3031707.png"></a></h4>
+            </div>
+        </div>
+       <span id="p1"> <b>Copyright<img id="img3" src="https://cdn-icons-png.flaticon.com/128/74/74717.png"> All rights preserved to Areti Reethika.</b></span>
+            
+
+
+
+        </body>
+    </html>
