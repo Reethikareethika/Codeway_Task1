@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            #d1{
+                background-color: lightgoldenrodyellow;
+                height: 500px;
+                width: 500px;
+                border-radius: 50%;
+                box-shadow: 2px 2px 2px black;
+            }
+            #d2{
+                position: absolute;
+                top: 160px;
+                left: 200px;
+            }
+            li{
+                font-size: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="d1">
+            <div id="d2">
+            <h1><b>SKILLS</b></h1>
+            <li>HTML/CSS</li>
+            <li>Basic Javascript</li>
+            <li>Python</li>
+            <li>Java</li>
+            <li>SQL</li>
+        </div>
+        </div>
+    </body>
+</html>
